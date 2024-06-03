@@ -1,5 +1,9 @@
 # LM555-Dependencies-Calculator
 
+### This calculates which possible resistors and capacitors is needed to reach your desired Milliseconds and/or Hertz
+
+---
+
 Complementary to : https://www.build-electronic-circuits.com/circuit-calculator-conversion/555-timer-calculator/
 
 ---
